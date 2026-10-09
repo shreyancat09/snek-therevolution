@@ -1,6 +1,6 @@
 Snek Revolution by ShreyanCat
 
-A custom snake arcade game made with Python and Pygame-ce. Created for Hack Club!
+A custom snake arcade game made with Python and Pygame-ce.
 I wanted to make a snake game that differentiates itself from the base snake game.
 So I added custom pixel sprites, speed scaling, hazards, and a timed golden apple power-up to the game
 What's Included
