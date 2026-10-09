@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Initialize Pygame modules
+print("Starting Snek Game...")
 pygame.init()
 
 SCREEN_WIDTH = 800
